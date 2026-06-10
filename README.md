@@ -22,6 +22,12 @@
 * First Runner-Up, ReGen Hackathon 2.0
 * Methodology under Patent Filing
 
+## Demonstration
+
+The following demonstration presents the DSGF-LEWS framework, including the satellite-based risk assessment workflow, adaptive sensor deployment strategy, machine learning pipeline, and early warning architecture.
+
+**Video Presentation:** https://youtu.be/d586gNRXdMg
+
 ---
 
 ## Overview
